@@ -12,9 +12,9 @@ class Intro{
 
       	// Title of the game
       	 cout << "------------------------------------------------"<< endl;
-         cout << "    Dating Simulator made by Group 2 in MCS102 BSU" << endl;
+         cout << " Dating Simulator made by Group 2 in MCS102 BSU" << endl;
          cout << "                (Title)" << endl;
-         cout << "        Press any key to continue." << endl;
+         cout << "       Press any key to continue." << endl;
       	 cout << "------------------------------------------------"<< endl;
 
       }
