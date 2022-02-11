@@ -369,7 +369,7 @@
 	class Cath
 	{
 	public:
-		int play;
+		string play;
 		string name;
 		string None;
 		int headhome;
@@ -2241,13 +2241,10 @@
 			cout << "\n\n";
 		}
 
-		int game_over()
+		void game_over()
 		{
 			cout << "Game over shit\n[1] Play again\n[2] Exit\n";
-			string asd;
-			getline(cin, asd);
-			play = stoi(asd);
-			return play;
+			getline(cin, play);
 		};
 	};
 
@@ -2357,7 +2354,7 @@
 			    cath.scene4();
 			    cath.scene5();
 			    cath.scene6();
-		    } while (cath.play == 1);
+		    } while (cath.play == "1");
 
 
 		   }
