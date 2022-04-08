@@ -1,6 +1,8 @@
 We gonna create 2 versions of the game 
 A console version and a version that has graphics
 
-The console version is gonna be a backup in case our prof doesn't accept the other one.
-It's just gonna be a go to back up plan xd.
+Things to do:
+1. A program that will read a txt file for the script and story of the game
+2. Graphics! WHERE IS IT! WHERE'S THE UI
+3. SOUNDS WE GOT NO SOUNDS
 
